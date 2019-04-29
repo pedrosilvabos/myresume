@@ -12,7 +12,7 @@ class SkillTableSeeder extends Seeder
     public function run()
     {
       $limit = 33;
-
+  $faker = Faker::create('App\Skill');
       for ($i = 0; $i < $limit; $i++) {
           DB::table('name')->insert([ //,
                 'name' -> $faker->word,
