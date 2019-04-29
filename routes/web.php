@@ -15,7 +15,7 @@ Route::get('/', function(){
   return view('profile');
 });
 Route::get('/Portfolio', function(){
-  return view('profile');
+  return view('portfolio');
 });
 Auth::routes();
 
