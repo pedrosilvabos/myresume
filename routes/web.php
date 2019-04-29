@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/profile')(){
-  reutnr view('profile')->name('profile');
+  return view('profile')->name('profile');
 });
 Auth::routes();
 
