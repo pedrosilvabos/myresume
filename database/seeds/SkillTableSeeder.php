@@ -21,4 +21,5 @@ class SkillTableSeeder extends Seeder
                  'name' -> $faker->word,
            ]);
        }
+     }
 }
