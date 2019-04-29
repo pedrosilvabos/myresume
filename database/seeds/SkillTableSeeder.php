@@ -14,3 +14,4 @@ class SkillTableSeeder extends Seeder
   $count = 10;
   factory(Skill::class, $count)-> create();
 }
+}
