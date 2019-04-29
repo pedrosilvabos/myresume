@@ -20,9 +20,9 @@
 
 
   <!-- Styles -->
-  <link href="{{ asset('css/resume.css') }}" rel="stylesheet">
+  <link href="{{ secure_asset('css/resume.css') }}" rel="stylesheet">
   <!-- Scripts -->
-  <script src="{{ asset('js/resume.js')}}"></script>
+  <script src="{{ secure_asset('js/resume.js')}}"></script>
 
 </head>
 
