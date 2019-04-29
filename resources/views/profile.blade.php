@@ -18,6 +18,7 @@
 
   <!-- Custom styles for this template -->
   <link href="{{ asset('public/css/resume.css') }}" rel="stylesheet">
+  {{ HTML::style('css/resume.css'); }}
 </head>
 
 <body id="page-top">
@@ -290,6 +291,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.js"></script>
 
   <!-- Custom scripts for this template -->
+  {{ HTML::script('js/resume.js'); }}
   <script src="{{ asset('public/js/resume.js') }}"></script>
 </body>
 
