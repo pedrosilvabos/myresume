@@ -17,7 +17,7 @@
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.min.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->
-  <link href="{{ asset('css/resume.css') }}" rel="stylesheet">
+  <link href="{{ asset('/css/resume.css') }}" rel="stylesheet">
 </head>
 
 <body id="page-top">
@@ -290,7 +290,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.js"></script>
 
   <!-- Custom scripts for this template -->
-  <script src="{{ asset('js/resume.js') }}"></script>
+  <script src="{{ asset('/js/resume.js') }}"></script>
 </body>
 
 </html>
