@@ -17,8 +17,13 @@
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.min.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->
-  <link href="{{ asset('public/css/resume.css') }}" rel="stylesheet">
-  {{ HTML::style('css/resume.css'); }}
+
+  @push('head')
+  <!-- Styles -->
+  <link href="{{ asset('css/resume.css') }}" rel="stylesheet">
+  <!-- Scripts -->
+  <script src="{{ asset('js/resume.js')}}"></script>
+  @endpush
 </head>
 
 <body id="page-top">
@@ -290,9 +295,7 @@
   <!-- Plugin JavaScript -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.js"></script>
 
-  <!-- Custom scripts for this template -->
-  {{ HTML::script('js/resume.js'); }}
-  <script src="{{ asset('public/js/resume.js') }}"></script>
+
 </body>
 
 </html>
