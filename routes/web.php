@@ -16,7 +16,7 @@ Route::get('/', function () {
 });
 Route::get('/profile')(){
   reutnr view('profile')->name('profile');
-}
+});
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
