@@ -181,11 +181,28 @@
         <ul class="list-inline dev-icons">
 
           <li>
-            <span class="devicons devicons-bing_small">
+            <span class="devicons devicons-html5">
+            <span class="devicons devicons-css3">
+            <span class="devicons devicons-javascript">
+            <span class="devicons devicons-jquery">
+            <span class="devicons devicons-php">
             <span class="devicons devicons-laravel">
+            <span class="devicons devicons-heroku">
+            <span class="devicons devicons-nodejs">
+            <span class="devicons devicons-java">
+            <span class="devicons devicons-mysql">
+            <span class="devicons devicons-github_badge">
+            <span class="devicons devicons-scrum">
+            <span class="devicons devicons-responsive">
+            <span class="devicons devicons-ruby_on_rails">
+            <span class="devicons devicons-terminal">
+            <span class="devicons devicons-windows">
+            <span class="devicons devicons-apple">
+            <span class="devicons devicons-linux">
+            <span class="devicons devicons-atom">
+            <span class="devicons devicons-npm">
           </li>
-
-        </ul>
+      </ul>
 
         <div class="subheading mb-3">Workflow</div>
         <ul class="fa-ul mb-0">
