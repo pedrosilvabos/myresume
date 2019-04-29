@@ -64,7 +64,7 @@
           <a href="https://www.facebook.com/PsFariaJoao">
             <i class="fab fa-facebook-f"></i>
           </a>
-          <a href="<a href="skype:live:pedro.silva.bos?call">Call Me</a>">
+          <a href="skype:live:pedro.silva.bos?call">
             <i class="fab fa-skype"></i>
           </a>
         </div>
