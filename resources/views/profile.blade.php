@@ -182,8 +182,6 @@
 
           <li>
             <span class="devicons devicons-bing_small">
-          </li>
-          <li>
             <span class="devicons devicons-laravel">
           </li>
 
