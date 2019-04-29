@@ -53,7 +53,9 @@
         <div class="subheading mb-5">Rua das Adegas São Roque do Pico ·
           <a href="mailto:pedro.silva.bos@gmail.com">pedro.silva.bos@gmail.com</a>
         </div>
-        <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+        <p class="lead mb-5">Quake 3 die hard player, gym addict, wannabe chef and dedicated father.
+These are all the extra qualities I bring attached to my recently acquired Full Stack Developer skills.
+Technology and programming were always in my blood. When I was a kid I would make mIRC scripts for myself and some other colleagues. The thrill of seeing my logic work, and sometimes why it wouldn’t, kept me wanting more. Nowadays as a Developer, I dive into the rabbit hole of code with no fear, and it still makes me feel like when I was a kid.</p>
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/psfaria/">
             <i class="fab fa-linkedin-in"></i>
