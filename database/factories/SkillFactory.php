@@ -5,8 +5,8 @@
 use App\Skill;
 use Faker\Generator as Faker;
 
-$factory->define(Skill::class, function (Faker $faker) {
+$factory->define(skill::class, function (Faker $faker) {
     return [
-        'name' => $faker->title;
+        'name' => $faker->title
     ];
 });

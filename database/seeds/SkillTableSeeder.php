@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Database\Seeder;
-use Faker\Factory as Faker;
+use App\Skill;
 class SkillTableSeeder extends Seeder
 {
     /**
@@ -11,13 +11,6 @@ class SkillTableSeeder extends Seeder
      */
     public function run()
     {
-      $limit = 33;
-  $faker = Faker::create('App\Skill');
-      for ($i = 0; $i < $limit; $i++) {
-          DB::table('name')->insert([ //,
-                'name' -> $faker->word,
-          ]);
-      }
-    }
-
+  $count = 10;
+  factory(Skill::class, $count)-> create();
 }
