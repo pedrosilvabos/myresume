@@ -2,20 +2,13 @@
 
 @section('content')
   <title>Pedro Silva Portfolio</title>
-
-  <!-- Bootstrap core CSS -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
-  <!-- Custom fonts for this template -->
   <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.min.css" rel="stylesheet">
   <link href='https://cdn.jsdelivr.net/devicons/1.8.0/css/devicons.min.css' rel='stylesheet'>
-  <!-- Custom styles for this template -->
 
-
-  <!-- Styles -->
   <link href="{{ secure_asset('css/resume.css') }}" rel="stylesheet">
-  <!-- Scripts -->
   <script src="{{ secure_asset('js/resume.js')}}"></script>
 
 </head>
