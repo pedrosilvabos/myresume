@@ -179,9 +179,12 @@
 
         <div class="subheading mb-3">Programming Languages &amp; Tools</div>
         <ul class="list-inline dev-icons">
-      
+
           <li>
             <span class="devicons devicons-bing_small">
+          </li>
+          <li>
+            <span class="devicons devicons-laravel">
           </li>
 
         </ul>
