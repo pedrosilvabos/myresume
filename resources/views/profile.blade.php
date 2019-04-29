@@ -18,12 +18,12 @@
 
   <!-- Custom styles for this template -->
 
-  @push('head')
+
   <!-- Styles -->
   <link href="{{ asset('css/resume.css') }}" rel="stylesheet">
   <!-- Scripts -->
   <script src="{{ asset('js/resume.js')}}"></script>
-  @endpush
+
 </head>
 
 <body id="page-top">
@@ -32,7 +32,7 @@
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
       <span class="d-block d-lg-none">Clarence Taylor</span>
       <span class="d-none d-lg-block">
-        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="{{ asset('images/profile.jpg')}}" alt="">
       </span>
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
