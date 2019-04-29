@@ -37,9 +37,7 @@
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#about">About</a>
         </li>
-        <li>
-          <span class="devicons devicons-bing_small">
-        </li>
+
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
         </li>
@@ -183,6 +181,9 @@
         <ul class="list-inline dev-icons">
           <li class="list-inline-item">
             <i class="fab fa-html5"></i>
+          </li>
+          <li>
+            <span class="devicons devicons-bing_small">
           </li>
           <li class="list-inline-item">
             <i class="fab fa-css3-alt"></i>
