@@ -11,10 +11,7 @@
 |
 */
 
-Route::get('/', function() {
-    return view('welcome');
-});
-Route::get('/profile', function(){
+Route::get('/', function(){
   return view('profile');
 });
 Auth::routes();
