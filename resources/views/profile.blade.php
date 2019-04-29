@@ -2,7 +2,7 @@
 
 @section('content')
   <title>Pedro Silva Portfolio</title>
-  
+
 
 </head>
 
@@ -47,25 +47,25 @@
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
       <div class="w-100">
-        <h1 class="mb-0">Clarence
-          <span class="text-primary">Taylor</span>
+        <h1 class="mb-0">Pedro
+          <span class="text-primary">Silva</span>
         </h1>
         <div class="subheading mb-5">Rua das Adegas São Roque do Pico ·
           <a href="mailto:pedro.silva.bos@gmail.com">pedro.silva.bos@gmail.com</a>
         </div>
         <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
         <div class="social-icons">
-          <a href="#">
+          <a href="https://www.linkedin.com/in/psfaria/">
             <i class="fab fa-linkedin-in"></i>
           </a>
-          <a href="#">
+          <a href="https://github.com/pedrosilvabos">
             <i class="fab fa-github"></i>
           </a>
-          <a href="#">
-            <i class="fab fa-twitter"></i>
-          </a>
-          <a href="#">
+          <a href="https://www.facebook.com/PsFariaJoao">
             <i class="fab fa-facebook-f"></i>
+          </a>
+          <a href="<a href="skype:live:pedro.silva.bos?call">Call Me</a>">
+            <i class="fab fa-skype"></i>
           </a>
         </div>
       </div>
