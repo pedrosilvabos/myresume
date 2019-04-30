@@ -120,8 +120,8 @@
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
       <div class="w-100">
         <h2 class="mb-5">Interests</h2>
-        <span><img src+"{{ secure_asset('images/arduino.png') }}"</span>
-        <span><img src+"{{ secure_asset('images/drone.png') }}"</span>
+        <span><img src="{{ secure_asset('images/arduino.png') }}"/></span>
+        <span><img src="{{ secure_asset('images/drone.png') }}"/></span>
       </div>
     </section>
 
