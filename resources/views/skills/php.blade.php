@@ -9,5 +9,5 @@
 @endsection
 
 @section('content')
-<h1> Ruby on rails Section </h1>
+<h1> PHP Section </h1>
 @endsection

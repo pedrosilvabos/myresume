@@ -9,5 +9,5 @@
 @endsection
 
 @section('content')
-<h1> Javascript on rails Section </h1>
+<h1> Javascript Section </h1>
 @endsection
